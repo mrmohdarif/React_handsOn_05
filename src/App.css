@@ -1,6 +1,20 @@
 .App {
   text-align: center;
 }
+body{
+  background: linear-gradient(0deg, rgba(213,65,130,1) 23%, rgba(128,204,235,1) 72%);
+  font-family: serif;
+  background-repeat: no-repeat;
+}
+button{
+  padding: 10px;
+  font-size: 18px;
+  margin: 20px;
+  border-radius: 10px;
+}
+p{
+  font-size: 26px;
+}
 
 .App-logo {
   height: 40vmin;
